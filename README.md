@@ -26,15 +26,15 @@
 # Settings
 To use it, you need to use this main.py code. and weahter its working or not you can check that using running the code and after that checking your localhost. you also can use postman to check this code
 
-<!-- <br>
+<br>
 
 ### 📁 Clone this repository
 
    ```
-   git clone https://github.com/Javed-ahmed-shanto/Pdf_To_Mp3.git
+   git clone https://github.com/Javed-ahmed-shanto/Python-API.git
    ```
 
-<br> -->
+<br>
 
 ### 📦 Install dependencies
    
